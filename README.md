@@ -1,7 +1,6 @@
 ## Features
 
 - Fully functional roulette game
-- Drag-and-drop chips to place bets
 - Balance tracking and reset
 - CSS gradients and wheel visuals
 
